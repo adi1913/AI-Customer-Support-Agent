@@ -1,0 +1,5 @@
+data/raw/*.csv
+models/*.joblib
+__pycache__/
+*.pyc
+.DS_Store
